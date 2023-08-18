@@ -10,7 +10,7 @@
 2. [armor]31001张，由大图通过car网络抠图形成。
 images和labels都在一个压缩包中。
 
-链接: https://pan.baidu.com/s/1K8HiVKt4fvO4VwdtXJ58BA 提取码: 4xe7
+链接: https://pan.baidu.com/s/1iCPs39cXOXAP-eYByadIag 提取码: zvet
 
 ## 使用说明
 
