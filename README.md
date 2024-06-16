@@ -11,6 +11,9 @@ images和labels都在一个压缩包中。
 
 链接: https://pan.baidu.com/s/1iCPs39cXOXAP-eYByadIag 提取码: zvet
 
+## 雷达站原生视频
+链接：https://pan.quark.cn/s/be322b92ff16  提取码：RvqG
+
 ## 使用说明
 
 1. yolov5 6.0是用来训练网络的
